@@ -16,8 +16,6 @@
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=cybermb_&layout=wide&show_border=off)](https://twitter.com/cybermb_)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mbrittech&show_icons=true&locale=en&theme=codeSTACKr&hide_border=true" alt="mbrittech" /></p>
-
 <p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=mbrittech&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true" alt="mbrittech" /></p>
 
 
