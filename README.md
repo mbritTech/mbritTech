@@ -11,7 +11,7 @@
 <div align="center">
 <h3>Tecnologies⤵</h3>
 <p> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -22,8 +22,6 @@
 </p>
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=cybermb_&layout=wide&show_border=off)](https://twitter.com/cybermb_)
-
-<p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=mbrittech&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true" alt="mbrittech-stats" /></p>
   
 </div> 
  
